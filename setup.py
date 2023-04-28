@@ -58,6 +58,7 @@ setup(
     'typer==0.7.0',
     'typing_extensions==4.5.0',
     'urllib3==1.26.15',
-    'wasabi==1.1.1'
+    'wasabi==1.1.1',
+        'daal4py'
     ]
 )
