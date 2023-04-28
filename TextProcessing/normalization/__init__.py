@@ -1,0 +1,3 @@
+from TextProcessing.normalization.lowercasing import lowercasing
+from TextProcessing.normalization.stemming import stemming
+from TextProcessing.normalization.lemmatization import lemmatization
